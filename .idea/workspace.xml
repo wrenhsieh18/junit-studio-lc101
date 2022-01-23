@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="705a5edb-1f12-41a3-a9da-d103c200797d" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="705a5edb-1f12-41a3-a9da-d103c200797d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/BonusBinarySearchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-studio-lc101.iml" beforeDir="false" afterPath="$PROJECT_DIR$/junit-studio-lc101.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/junit-studio-lc101/main/BalancedBrackets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/junit-studio-lc101/main/BalancedBrackets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/junit-studio-lc101/test/BalancedBracketsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/junit-studio-lc101/test/BalancedBracketsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/BalancedBrackets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/BalancedBrackets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/BonusBinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/BonusBinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/BalancedBracketsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/BalancedBracketsTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +26,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Snvdtr8oVEcWvMSjy8Jh12C3wW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
@@ -22,19 +36,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="JUnit.BalancedBracketsTest.emptyTest">
+  <component name="RunManager" selected="JUnit.BonusBinarySearchTest.inputSortedArrayFoundNumberIntheMiddleReturnIndex">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -47,7 +49,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BalancedBracketsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BonusBinarySearchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junit-studio-lc101" />
       <extension name="coverage">
         <pattern>
@@ -56,14 +58,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.BalancedBracketsTest" />
+      <option name="MAIN_CLASS_NAME" value="test.BonusBinarySearchTest" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BalancedBracketsTest.emptyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BonusBinarySearchTest.inputSortedArrayFoundNumberIntheMiddleReturnIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junit-studio-lc101" />
       <extension name="coverage">
         <pattern>
@@ -72,8 +74,59 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.BalancedBracketsTest" />
-      <option name="METHOD_NAME" value="emptyTest" />
+      <option name="MAIN_CLASS_NAME" value="test.BonusBinarySearchTest" />
+      <option name="METHOD_NAME" value="inputSortedArrayFoundNumberIntheMiddleReturnIndex" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BonusBinarySearchTest.inputSortedArrayFoundNumberReturnIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-studio-lc101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.BonusBinarySearchTest" />
+      <option name="METHOD_NAME" value="inputSortedArrayFoundNumberReturnIndex" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BonusBinarySearchTest.inputSortedArrayWithRepeatedSearchedNumReturnIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-studio-lc101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.BonusBinarySearchTest" />
+      <option name="METHOD_NAME" value="inputSortedArrayWithRepeatedSearchedNumReturnIndex" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BonusBinarySearchTest.inputUnsortedArrayFoundNumberReturnException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-studio-lc101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.BonusBinarySearchTest" />
+      <option name="METHOD_NAME" value="inputUnsortedArrayFoundNumberReturnException" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -107,8 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.BalancedBracketsTest.emptyTest" />
-        <item itemvalue="JUnit.BalancedBracketsTest" />
+        <item itemvalue="JUnit.BonusBinarySearchTest.inputSortedArrayFoundNumberIntheMiddleReturnIndex" />
+        <item itemvalue="JUnit.BonusBinarySearchTest.inputSortedArrayWithRepeatedSearchedNumReturnIndex" />
+        <item itemvalue="JUnit.BonusBinarySearchTest.inputUnsortedArrayFoundNumberReturnException" />
+        <item itemvalue="JUnit.BonusBinarySearchTest" />
+        <item itemvalue="JUnit.BonusBinarySearchTest.inputSortedArrayFoundNumberReturnIndex" />
       </list>
     </recent_temporary>
   </component>
@@ -124,5 +180,84 @@
       <updated>1572212264650</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/junit_studio_lc101$BalancedBracketsTest_onlyBracketsWithWrongOrdersReturnsFalse.ic" NAME="BalancedBracketsTest.onlyBracketsWithWrongOrdersReturnsFalse Coverage Results" MODIFIED="1642887680838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit_studio_lc101$BalancedBracketsTest_wrongOrderOfBracketsReturnFalse.ic" NAME="BalancedBracketsTest.wrongOrderOfBracketsReturnFalse Coverage Results" MODIFIED="1642887579197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit_studio_lc101$BonusBinarySearchTest_inputUnsortedArrayFoundNumberReturnException.ic" NAME="BonusBinarySearchTest.inputUnsortedArrayFoundNumberReturnException Coverage Results" MODIFIED="1642904774320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit_studio_lc101$BalancedBracketsTest_shortForLeftBracketsReturnFalse.ic" NAME="BalancedBracketsTest.shortForLeftBracketsReturnFalse Coverage Results" MODIFIED="1642882954463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit_studio_lc101$BonusBinarySearchTest_inputSortedArrayNotFoundNumberReturnNegativeOne.ic" NAME="BonusBinarySearchTest.inputSortedArrayNotFoundNumberReturnNegativeOne Coverage Results" MODIFIED="1642891916349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit_studio_lc101$BalancedBracketsTest_wrongOrderWrongNumberOfBracketsReturnFalse.ic" NAME="BalancedBracketsTest.wrongOrderWrongNumberOfBracketsReturnFalse Coverage Results" MODIFIED="1642884866192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit_studio_lc101$BalancedBracketsTest_bracketsWithOtherCharsReturnsTrue.ic" NAME="BalancedBracketsTest.bracketsWithOtherCharsReturnsTrue Coverage Results" MODIFIED="1642885039588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit_studio_lc101$BalancedBracketsTest_onlyManyPairsOfBracketsWithIncorrectNumAndincorrectOrdersReturnsTrue.ic" NAME="BalancedBracketsTest.onlyManyPairsOfBracketsWithIncorrectNumAndincorrectOrdersReturnsTrue Coverage Results" MODIFIED="1642888157463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit_studio_lc101$BalancedBracketsTest.ic" NAME="BalancedBracketsTest Coverage Results" MODIFIED="1642888404162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit_studio_lc101$BonusBinarySearchTest_inputUnsortedArrayFoundNumberReturnIndex.ic" NAME="BonusBinarySearchTest.inputUnsortedArrayFoundNumberReturnIndex Coverage Results" MODIFIED="1642889606249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit_studio_lc101$BalancedBracketsTest_shortForRightBracketsReturnFalse.ic" NAME="BalancedBracketsTest.shortForRightBracketsReturnFalse Coverage Results" MODIFIED="1642883509900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit_studio_lc101$BalancedBracketsTest_manyPairsOfbracketsWithOtherCharsReturnsTrue.ic" NAME="BalancedBracketsTest.manyPairsOfbracketsWithOtherCharsReturnsTrue Coverage Results" MODIFIED="1642885089990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit_studio_lc101$BonusBinarySearchTest_sortedArrayFoundNumberReturnIndex.ic" NAME="BonusBinarySearchTest.sortedArrayFoundNumberReturnIndex Coverage Results" MODIFIED="1642889572947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit_studio_lc101$BalancedBracketsTest_onlyBracketsReturnsTrue.ic" NAME="BalancedBracketsTest.onlyBracketsReturnsTrue Coverage Results" MODIFIED="1642883587205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit_studio_lc101$BonusBinarySearchTest.ic" NAME="BonusBinarySearchTest Coverage Results" MODIFIED="1642904763093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit_studio_lc101$BalancedBracketsTest_onlyManyPairsOfBracketsReturnsTrue.ic" NAME="BalancedBracketsTest.onlyManyPairsOfBracketsReturnsTrue Coverage Results" MODIFIED="1642885145843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit_studio_lc101$BonusBinarySearchTest_inputSortedArrayFoundNumberReturnIndex.ic" NAME="BonusBinarySearchTest.inputSortedArrayFoundNumberReturnIndex Coverage Results" MODIFIED="1642904692796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit_studio_lc101$BonusBinarySearchTest_inputSortedArrayWithRepeatedSearchedNumReturnIndex.ic" NAME="BonusBinarySearchTest.inputSortedArrayWithRepeatedSearchedNumReturnIndex Coverage Results" MODIFIED="1642904929970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit_studio_lc101$BalancedBracketsTest_wrongNumbersOfBracketsReturnFalse.ic" NAME="BalancedBracketsTest.wrongNumbersOfBracketsReturnFalse Coverage Results" MODIFIED="1642883679182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit_studio_lc101$BalancedBracketsTest_noBracketsReturnsTrue.ic" NAME="BalancedBracketsTest.noBracketsReturnsTrue Coverage Results" MODIFIED="1642885461804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit_studio_lc101$BalancedBracketsTest_onlyBracketsWithWrongNumReturnsFalse.ic" NAME="BalancedBracketsTest.onlyBracketsWithWrongNumReturnsFalse Coverage Results" MODIFIED="1642887730983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit_studio_lc101$BalancedBracketsTest_onlyBracketsWithIncorrectOrderAndIncorrectNumReturnsTrue.ic" NAME="BalancedBracketsTest.onlyBracketsWithIncorrectOrderAndIncorrectNumReturnsTrue Coverage Results" MODIFIED="1642887877378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
   </component>
 </project>
